@@ -12,6 +12,9 @@ The internet has made information more accessible than ever before, but with thi
 
 Machine Learning is used to automatically predict the authenticity of news articles-it predict if news article is  false or authentic. This approach is addopted because the traditional method  of seiving through news article is tedious and impossible. The number of websites and news articles being post on the internet is growing daily and this makes it impossible for traditional tools for detected misleading information to capture all fake news.
 
+## HOW THIS PROJECT WAS IMPLEMENTED.
+The 'site_url' was combined with the news article text 'text with stopwords removed' to create a new feature called 'source' and this feature was then used to train three different machine learning algorithms to automatically predict news authenticity. The steps outlined in the methology section was carried out to prepare the data for the algorithms.
+
 ## STEPS IN PROJECT IMPLEMENTATION/METHODOLOGY
 
 Import Needed Libraries
