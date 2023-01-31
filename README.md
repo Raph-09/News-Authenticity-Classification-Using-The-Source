@@ -81,7 +81,7 @@ The 'site_url' was combined with the news article text 'text with stopwords remo
 2. click on code
 3. click on download zip
 4. extract the zip file
-5. open your command propmt
+5. open your command prompt
 6. navigate to the directory where the file is stored
 7. open jupyter notebook there
 
