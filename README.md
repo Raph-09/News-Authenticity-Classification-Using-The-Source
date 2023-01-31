@@ -89,6 +89,8 @@ The 'site_url' was combined with the news article text 'text with stopwords remo
 
 sklearn
 
+NLTK
+
 plotly
 
 pandas
@@ -100,5 +102,7 @@ seaborn
 matplotlib
 
 swifter
+
+
 
 
