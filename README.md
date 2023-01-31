@@ -4,15 +4,15 @@
 ![fake news](https://user-images.githubusercontent.com/72034856/215819085-30a3c69c-a14f-4489-8a65-75cd9d268a09.jpg)
 
 
-UNDERSTANDING THE PROBLEM
+## UNDERSTANDING THE PROBLEM
 
 The internet has made information more accessible than ever before, but with this convenience comes the challenge of distinguishing fact from fiction. Misinformation is rampant on the web, and it is being spread by a variety of actors, including individuals seeking personal gain, companies, politicians, and even some news media outlets. These entities propagate false information in order to sway public opinion and shape events to fit their own biases and prejudices. The manual evaluation of news for authenticity is a tedious and time-consuming process, and it is also subject to subjective bias. This makes it extremely difficult to accurately gauge the credibility of information found online.
 
-SOLUTION TO THE PROBLEM
+## SOLUTION TO THE PROBLEM
 
 Machine Learning is used to automatically predict the authenticity of news articles-it predict if news article is  false or authentic. This approach is addopted because the traditional method  of seiving through news article is tedious and impossible. The number of websites and news articles being post on the internet is growing daily and this makes it impossible for traditional tools for detected misleading information to capture all fake news.
 
-STEPS IN PROJECT IMPLEMENTATION/METHODOLOGY
+## STEPS IN PROJECT IMPLEMENTATION/METHODOLOGY
 
 Import Needed Libraries
 
@@ -49,14 +49,36 @@ Training machine learning models
 6.3 Passive Aggressive Classifier
 
 
-MODEL PERFORMACE
-Baseline model performance
+## MODEL PERFORMACE
 
-After hyperparameter optimization
+## Baseline model performance
 
-
-RUN LOCALLY
+## After hyperparameter optimization
 
 
+## HOW TO RUN THE NOTEBOOK
+
+## USING GOOGLR COLAB
+
+1. clone the ripository
+2. Open your google colab notebook
+3. Click on
+
+
+## RUN LOCALLY
+
+
+
+## TECH STACK USED
+
+sklearn
+
+pandas
+
+numpy
+
+seaborn
+
+matplotlib
 
 
