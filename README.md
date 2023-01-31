@@ -47,3 +47,16 @@ Training machine learning models
 6.2 Support Vector Machine Classifier
 
 6.3 Passive Aggressive Classifier
+
+
+MODEL PERFORMACE
+Baseline model performance
+
+After hyperparameter optimization
+
+
+RUN LOCALLY
+
+
+
+
