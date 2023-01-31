@@ -10,10 +10,10 @@ The internet has made information more accessible than ever before, but with thi
 
 ## SOLUTION TO THE PROBLEM
 
-Machine Learning is used to automatically predict the authenticity of news articles-it predict if news article is  false or authentic. This approach is addopted because the traditional method  of seiving through news article is tedious and impossible. The number of websites and news articles being post on the internet is growing daily and this makes it impossible for traditional tools for detected misleading information to capture all fake news.
+Machine learning is used to automatically predict the authenticity of news articles. It predicts if the news article is false or authentic. This approach is adopted because the traditional method of sifting through news articles is tedious and increasingly impossible. With the growing number of websites and news articles generated daily, traditional tools are unable to quickly detect misleading information
 
 ## HOW THIS PROJECT WAS IMPLEMENTED.
-The 'site_url' was combined with the news article text 'text with stopwords removed' to create a new feature called 'source' and this feature was then used to train three different machine learning algorithms to automatically predict news authenticity. The steps outlined in the methology section was carried out to prepare the data for the algorithms.
+The 'site_url' was combined with the news article text 'text with stopwords removed' to create a new feature called 'source'. This feature was then used to train three different machine learning algorithms to automatically predict news authenticity. The steps outlined in the methodology section were carried out to prepare the data for the algorithms.
 
 ## STEPS IN PROJECT IMPLEMENTATION/METHODOLOGY
 
@@ -56,9 +56,34 @@ The 'site_url' was combined with the news article text 'text with stopwords remo
 
 ## MODEL PERFORMANCE
 
-#### Baseline model performance
+## Baseline model performance
 
-#### Performance After hyperparameter optimization
+Adaboost Algorithm
+
+![Adaboost](https://user-images.githubusercontent.com/72034856/215877867-ba3cc602-bb40-4263-a482-3cc16c6cde7e.PNG)
+
+Naive Bayes
+
+![Naive Bayes](https://user-images.githubusercontent.com/72034856/215878376-421ce7e5-d319-415b-a7e5-bff90e9f1b84.PNG)
+
+
+Passive Aggressive Algorithm
+
+![passive aggressive](https://user-images.githubusercontent.com/72034856/215878454-47e01c19-6b14-4889-886f-eb00a7afac7b.PNG)
+
+
+## Performance After hyperparameter optimization
+
+Adaboost Algorithm
+
+
+
+Naive Bayes
+
+
+Passive Aggressive Algorithm
+
+![passive aggressive](https://user-images.githubusercontent.com/72034856/215878704-015d0b3b-1820-445c-afbc-4876d3f3d640.PNG)
 
 
 ## HOW TO RUN THE NOTEBOOK
