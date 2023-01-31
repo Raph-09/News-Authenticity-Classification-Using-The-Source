@@ -89,6 +89,8 @@ The 'site_url' was combined with the news article text 'text with stopwords remo
 
 sklearn
 
+plotly
+
 pandas
 
 numpy
