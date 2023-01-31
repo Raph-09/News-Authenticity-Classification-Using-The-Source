@@ -17,15 +17,15 @@ The 'site_url' was combined with the news article text 'text with stopwords remo
 
 ## STEPS IN PROJECT IMPLEMENTATION/METHODOLOGY
 
-Import Needed Libraries
+1.Import Needed Libraries
 
-Reading the news articles dataset
+2.Reading the news articles dataset
 
-Basic Information about the dataset and missing data handling
+3.Basic Information about the dataset and missing data handling
 
-Exploratory Data Analysis
+4.Exploratory Data Analysis
 
-Text Preprocessing
+5.Text Preprocessing
 
 5.1 Combining Features
 
@@ -37,42 +37,55 @@ Text Preprocessing
 
 5.5 Feature Encoding
 
-5.6 Data Segregation or splitting
+5.6 Handling Imbalance of target variable
 
-5.7 Convert text to string
+5.7 Data Segregation or splitting
 
-5.8 Vectorization using TFIDF
+5.8 Convert text to string
 
-Training machine learning models
+5.9 Vectorization using TFIDF 
 
-6.1 Adaboost Machine Learning Algorithm
+6.Training machine learning models
 
-6.2 Support Vector Machine Classifier
+  6.1 Adaboost Machine Learning Algorithm
 
-6.3 Passive Aggressive Classifier
+  6.2 Support Vector Machine Classifier
+
+  6.3 Passive Aggressive Classifier
 
 
-## MODEL PERFORMACE
+## MODEL PERFORMANCE
 
-## Baseline model performance
+#### Baseline model performance
 
-## After hyperparameter optimization
+#### Performance After hyperparameter optimization
 
 
 ## HOW TO RUN THE NOTEBOOK
 
-## USING GOOGLR COLAB
+#### USING GOOGLE COLAB
 
-1. clone the ripository
-2. Open your google colab notebook
-3. Click on
+1. clone the repository
+2. open your google colab notebook
+3. click on file
+4. click on open notebook
+5. click on from github
+6. copy link of github and paste 
+7. click on search and click the notebook
 
 
-## RUN LOCALLY
 
+#### RUN LOCALLY
 
+1. clone this repository to your github
+2. click on code
+3. click on download zip
+4. extract the zip file
+5. open your command propmt
+6. navigate to the directory where the file is stored
+7. open jupyter notebook there
 
-## TECH STACK USED
+### TECH STACK USED
 
 sklearn
 
@@ -83,5 +96,7 @@ numpy
 seaborn
 
 matplotlib
+
+swifter
 
 
