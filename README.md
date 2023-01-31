@@ -76,9 +76,12 @@ Passive Aggressive Algorithm
 
 Adaboost Algorithm
 
+![Ada2](https://user-images.githubusercontent.com/72034856/215895675-97732d6d-7b9b-4b6f-801f-432a78939fc9.PNG)
 
 
 Naive Bayes
+
+![Naive_bayes2](https://user-images.githubusercontent.com/72034856/215895712-6ab4adb8-0a6d-4704-9192-5c7ccee82259.PNG)
 
 
 Passive Aggressive Algorithm
