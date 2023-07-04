@@ -99,7 +99,7 @@ Passive Aggressive Algorithm
 4. click on open notebook
 5. click on from github
 6. copy link of github and paste 
-7. click on search and click the notebook
+7. click on search and click the notebookk
 
 
 
