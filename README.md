@@ -121,7 +121,7 @@ NLTK
 
 plotly
 
-pandas
+pandas..
 
 numpy
 
