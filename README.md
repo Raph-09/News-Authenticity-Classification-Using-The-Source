@@ -129,7 +129,7 @@ seaborn
 
 matplotlib
 
-swifter..
+swifter
 
 
 
