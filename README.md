@@ -6,7 +6,7 @@
 
 ## UNDERSTANDING THE PROBLEM
 
-The internet has made information more accessible than ever before, but with this convenience comes the challenge of distinguishing fact from fiction. Misinformation is rampant on the web, and it is being spread by a variety of actors, including individuals seeking personal gain, companies, politicians, and even some news media outlets. These entities propagate false information in order to sway public opinion and shape events to fit their own biases and prejudices. The manual evaluation of news for authenticity is a tedious and time-consuming process, and it is also subject to subjective bias. This makes it extremely difficult to accurately gauge the credibility of information found online.
+The internet has made information more accessible than ever before, but with this convenience comes the challenge of distinguishing fact from fiction. Misinformation is rampant on the web, and it is being spread by a variety of actors, including individuals seeking personal gain, companies, politicians, and even some news media outlets. These entities propagate false information in order to sway public opinion and shape events to fit their own biases and prejudices. The manual evaluation of news for authenticity is a tedious and time-consuming process, and it is also subject to subjective bias. This makes it extremely difficult to accurately gauge the credibility of information found online..
 
 ## SOLUTION TO THE PROBLEM
 
