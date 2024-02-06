@@ -127,9 +127,9 @@ numpy
 
 seaborn
 
-matplotlib..
+matplotlib
 
-swifter...
+swifter
 
 
 
