@@ -125,7 +125,7 @@ pandas
 
 numpy
 
-seaborn
+seaborn...
 
 matplotlib
 
